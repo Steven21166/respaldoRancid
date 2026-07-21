@@ -24,3 +24,9 @@ exit
 rancid-cvs
 rancid-cvs
 exit
+Steven21166
+ubuntu
+rancid-run
+rancid-run
+cat /var/lib/rancid/logs/routers.*
+exit
